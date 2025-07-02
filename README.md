@@ -22,4 +22,3 @@ This is a simple console-based voting application written in Java. It allows use
    - Announces the winner.
 
 ## 🔐 Default Admin Password
-
